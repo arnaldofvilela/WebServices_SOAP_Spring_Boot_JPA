@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<GetCustomerDetailResponse xmlns="http://arnaldoneto.com.br">
+<GetCustomerDetailResponse
+	xmlns="http://arnaldoneto.com.br"
+	xsi:schemaLocation="http://arnaldoneto.com.br customer-information.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<CustomerDetail>
 		<id>123</id>
 		<name>Bob</name>

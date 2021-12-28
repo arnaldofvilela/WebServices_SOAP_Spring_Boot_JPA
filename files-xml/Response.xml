@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetCustomerDetailResponse>
+	<CustomerDetail>
+		<id>123</id>
+		<name>Bob</name>
+		<phone>99999999999</phone>
+		<email>bob@gmail.com</email>
+	</CustomerDetail>
+</GetCustomerDetailResponse>
